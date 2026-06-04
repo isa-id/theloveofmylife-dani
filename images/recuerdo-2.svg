@@ -1,0 +1,11 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C1D7AE"/>
+      <stop offset="100%" stop-color="#8DA87A"/>
+    </linearGradient>
+  </defs>
+  <path d="M100 20 L110 75 L170 80 L125 115 L140 175 L100 145 L60 175 L75 115 L30 80 L90 75Z" fill="url(#starGrad)" opacity="0.85"/>
+  <circle cx="100" cy="100" r="35" fill="#C1D7AE" opacity="0.5"/>
+  <circle cx="100" cy="100" r="15" fill="#8DA87A" opacity="0.4"/>
+</svg>
